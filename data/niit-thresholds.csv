@@ -1,0 +1,5 @@
+status_key,status,threshold,rate,source
+single,single,200000,0.038,IRS Net Investment Income Tax https://www.irs.gov/individuals/net-investment-income-tax
+hoh,head of household,200000,0.038,IRS Net Investment Income Tax https://www.irs.gov/individuals/net-investment-income-tax
+mfj,married filing jointly,250000,0.038,IRS Net Investment Income Tax https://www.irs.gov/individuals/net-investment-income-tax
+mfs,married filing separately,125000,0.038,IRS Net Investment Income Tax https://www.irs.gov/individuals/net-investment-income-tax

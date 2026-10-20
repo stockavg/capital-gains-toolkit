@@ -1,0 +1,14 @@
+line,instruction,source
+1,Amount from the prior-year Form 1040 line for taxable income,Schedule D instructions — Capital Loss Carryover Worksheet
+2,Loss from the prior-year Schedule D line 21 (the loss actually deducted),Schedule D instructions — Capital Loss Carryover Worksheet
+3,Combine lines 1 and 2; if zero or less enter -0-,Schedule D instructions — Capital Loss Carryover Worksheet
+4,The smaller of line 2 or line 3,Schedule D instructions — Capital Loss Carryover Worksheet
+5,Loss from the prior-year Schedule D line 7 (short-term loss),Schedule D instructions — Capital Loss Carryover Worksheet
+6,Gain from the prior-year Schedule D line 15 (long-term gain),Schedule D instructions — Capital Loss Carryover Worksheet
+7,Add lines 4 and 6,Schedule D instructions — Capital Loss Carryover Worksheet
+8,Short-term carryover: line 5 minus line 7; if zero or less enter -0- -> current Schedule D line 6,Schedule D instructions — Capital Loss Carryover Worksheet
+9,Loss from the prior-year Schedule D line 15 (long-term loss),Schedule D instructions — Capital Loss Carryover Worksheet
+10,Gain from the prior-year Schedule D line 7 (short-term gain),Schedule D instructions — Capital Loss Carryover Worksheet
+11,Line 4 minus line 5; if zero or less enter -0-,Schedule D instructions — Capital Loss Carryover Worksheet
+12,Add lines 10 and 11,Schedule D instructions — Capital Loss Carryover Worksheet
+13,Long-term carryover: line 9 minus line 12; if zero or less enter -0- -> current Schedule D line 14,Schedule D instructions — Capital Loss Carryover Worksheet

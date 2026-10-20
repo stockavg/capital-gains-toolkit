@@ -1,0 +1,5 @@
+status_key,status,zero_ends_at,fifteen_ends_at,twenty_rate_above,source
+single,single,49450,545500,545500,IRS Revenue Procedure 2025-32 (2026 inflation adjustments) https://www.irs.gov/pub/irs-drop/rp-25-32.pdf
+mfj,married filing jointly,98900,613700,613700,IRS Revenue Procedure 2025-32 (2026 inflation adjustments) https://www.irs.gov/pub/irs-drop/rp-25-32.pdf
+mfs,married filing separately,49450,306850,306850,IRS Revenue Procedure 2025-32 (2026 inflation adjustments) https://www.irs.gov/pub/irs-drop/rp-25-32.pdf
+hoh,head of household,66200,579600,579600,IRS Revenue Procedure 2025-32 (2026 inflation adjustments) https://www.irs.gov/pub/irs-drop/rp-25-32.pdf
